@@ -2,5 +2,5 @@ limonata tarifi
 
 1.limonata
 2.Su
-3.1 kup Şeker
+3.Şeker
 4.Nane
